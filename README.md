@@ -5,7 +5,7 @@ Bem-vindo ao repositório com meus Exercícios de Programação! 🎉
 Este repositório foi criado para compartilhar a coleção de  exercícios práticos que ajudarão você a aprimorar suas habilidades de programação. 
 Aqui, você encontrará materiais que abrangem diversos tópicos e linguagens de programação, desde os conceitos básicos até desafios mais avançados.
 
-Tudo isso graças a Gustavo Guanabara do curso em video.
+Tudo isso graças a Gustavo Guanabara do curso em vídeo.
 
 ## Conteúdo
 Os exercícios são desafios para praticar o que foi aprendido aprendeu nas aulas. 
@@ -20,7 +20,7 @@ Os exercícios são desafios para praticar o que foi aprendido aprendeu nas aula
     ├── Estruturas de decisão e repetição 
 
 /Mundo_03
-    ├── Dicionarios, função, POO (aqui é a hora da verdade,rs!)
+    ├── Dicionários, função, POO (aqui é a hora da verdade. rs!)
 
 
 ## Como Contribuir
@@ -35,4 +35,4 @@ Se você deseja contribuir com novas aulas ou exercícios, fique à vontade para
 
 ---
 
-Aproveite e bons estudos! 🚀
+Aproveite e bons estudos! :) 🚀
