@@ -1,10 +1,18 @@
 import os
 os.system('cls||clear')
 
-def area(l,c):
-    A = l*c
-    print(f'A área do retangulo é {A}')
+def titulo(msg):
+    print(msg)
+    print("-"*30)
 
 
-area(3,4)
-area(7,4)
+def calculo(Largura,Comprimento):
+    cal = Largura*Comprimento
+    print(f'A area do terreno {Largura} x {Comprimento} = {cal} metros')
+    
+
+#Programa Principal
+titulo('Controle de Terreno')
+Largura= float(input('Digite a Largura: '))
+Comprimento= float(input('Digite a Comprimento: '))
+calculo(Largura,Comprimento)

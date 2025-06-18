@@ -8,12 +8,12 @@ Olá, Mundo!
 
 '''
 
-def escreva(txt):
-    print('~'*30)
-    print(txt)
-    print('~'*30)
+def escreva(msg):
+    print('~'*len(msg))
+    print(msg)
+    print('~'*len(msg))
 
-
-
-
-escreva('O Bahia é o mundo! ')
+#Programa Principal
+escreva('Olá mundo!')
+escreva('Bahia é o mundo')
+escreva('Você não é todo mundo')
