@@ -14,7 +14,7 @@ def sorteia(lista):
         sleep(0.3)
     print('Pronto!')
 
-def somapar(lista):
+def soma_par(lista):
     soma = 0
     for valor in lista:
         if valor % 2 == 0:
@@ -26,4 +26,4 @@ def somapar(lista):
 #Programa Principal
 numeros = list()
 sorteia(numeros)
-somapar(numeros)
+soma_par(numeros)
