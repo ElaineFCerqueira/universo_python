@@ -19,7 +19,7 @@ Os exercícios são desafios para praticar o que foi aprendido aprendeu nas aula
 /Mundo_02
     ├── Estruturas de decisão e repetição 
 
-/Mundo_03 (Em construção...)
+/Mundo_03 ***(Em construção...)***
     ├── Dicionários, função, POO (aqui é a hora da verdade. rs!)
 
 
